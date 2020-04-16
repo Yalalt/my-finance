@@ -57,7 +57,7 @@ var uiController = (function () {
           tusuv.huvi;
       }
     },
-
+    // delgets deerees elementiig ustgah
     deleteListItem: function (id) {
       var el = document.getElementById(id);
       el.parentNode.removeChild(el);
